@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Firefox",
+    "img": "https://www.extremetech.com/wp-content/uploads/2013/08/firefox-new-logo-2013-large.jpg",
+    "description": "Firefox, pełna nazwa Mozilla Firefox – wieloplatformowa przeglądarka internetowa o otwartym kodzie źródłowym oparta na silniku Gecko."
+  },
+  {
+    "name": "Brave",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.E2ODVpwwjrqww_RvQH3MZgHaFS",
+    "description": "Brave – darmowa przeglądarka internetowa oparta na silniku Chromium, rozwijana na zasadzie open source"
+  },
+  {
+    "name": "Edge",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.H2LfNGv9ytChjt1YphAdpQHaHa",
+    "description": "Microsoft Edge – przeglądarka internetowa firmy Microsoft."
+  },
+  {
+    "name": "Opera",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.DjyE9aBlAU7QlyJhGS0dKAHaHa",
+    "description": "Opera – darmowa przeglądarka internetowa, tworzona i rozwijana przez należącą do chińskiego konsorcjum norweską firmę Opera Software ASA. "
+  }
+]
